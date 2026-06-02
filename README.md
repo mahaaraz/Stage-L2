@@ -17,3 +17,7 @@ track
 -------- 7  
 -------- 8  
 ----- Track_4 (Euro)  
+---
+## Pour télécharger les fichiers :  
+`git clone https://github.com/Ghaal-Maaraz/Stage-L2.git`  
+ou utiliser la suite de boutons : `Code` --> `Download ZIP`
