@@ -6,17 +6,17 @@ L'arborescence se défini comme telle :
 analyse.md (notes prises pour l'analyse)  
 README.md  
 track   
------ Track_1 (Huma)  
+----- Huma  
 -------- 1  
 -------- 2  
 -------- 3  
 -------- 4  
--------- 5  
------ Track_2 (RMC)  
------ Track_3 (Ligne)  
--------- 7  
--------- 8  
------ Track_4 (Euro)  
+----- RMC
+-------- 5 
+----- Ligne  
+-------- 6  
+----- Euro
+-------- 7
 ---
 ## Pour télécharger les fichiers :  
 `git clone https://github.com/Ghaal-Maaraz/Stage-L2.git`  
