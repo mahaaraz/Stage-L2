@@ -3,9 +3,11 @@ Ce repo regroupes les différents fichiers utiliser dans mon stage de L2 sur l'a
 ---
 L'arborescence se défini comme telle : 
 
-+ analyse.md (notes prises pour l'analyse)  
++ Rapport de stage (*2025_VIGNERON_Rapport de stage.pdf*)
++ "Article" (*Vigneron 2026*)
++ Notes prises pour l'analyse (*analyse.md*)  
 + README.md  
-+ track   
++ Fichiers (*track*, triés selon nomenclature)   
   + Huma  
     + 1
     + 2
